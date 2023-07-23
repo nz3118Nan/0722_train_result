@@ -1,0 +1,106 @@
+{
+  "best_metric": null,
+  "best_model_checkpoint": null,
+  "epoch": 7.18562874251497,
+  "global_step": 150,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.48,
+      "learning_rate": 0.0096,
+      "loss": 3.7677,
+      "step": 10
+    },
+    {
+      "epoch": 0.96,
+      "learning_rate": 0.0092,
+      "loss": 2.8493,
+      "step": 20
+    },
+    {
+      "epoch": 1.44,
+      "learning_rate": 0.0088,
+      "loss": 2.7338,
+      "step": 30
+    },
+    {
+      "epoch": 1.92,
+      "learning_rate": 0.0084,
+      "loss": 2.5785,
+      "step": 40
+    },
+    {
+      "epoch": 2.4,
+      "learning_rate": 0.008,
+      "loss": 2.5645,
+      "step": 50
+    },
+    {
+      "epoch": 2.87,
+      "learning_rate": 0.0076,
+      "loss": 2.4892,
+      "step": 60
+    },
+    {
+      "epoch": 3.35,
+      "learning_rate": 0.0072,
+      "loss": 2.5188,
+      "step": 70
+    },
+    {
+      "epoch": 3.83,
+      "learning_rate": 0.0068000000000000005,
+      "loss": 2.4379,
+      "step": 80
+    },
+    {
+      "epoch": 4.31,
+      "learning_rate": 0.0064,
+      "loss": 2.4157,
+      "step": 90
+    },
+    {
+      "epoch": 4.79,
+      "learning_rate": 0.006,
+      "loss": 2.4548,
+      "step": 100
+    },
+    {
+      "epoch": 5.27,
+      "learning_rate": 0.005600000000000001,
+      "loss": 2.405,
+      "step": 110
+    },
+    {
+      "epoch": 5.75,
+      "learning_rate": 0.005200000000000001,
+      "loss": 2.3413,
+      "step": 120
+    },
+    {
+      "epoch": 6.23,
+      "learning_rate": 0.0048,
+      "loss": 2.3589,
+      "step": 130
+    },
+    {
+      "epoch": 6.71,
+      "learning_rate": 0.0044,
+      "loss": 2.3472,
+      "step": 140
+    },
+    {
+      "epoch": 7.19,
+      "learning_rate": 0.004,
+      "loss": 2.2694,
+      "step": 150
+    }
+  ],
+  "max_steps": 250,
+  "num_train_epochs": 13,
+  "total_flos": 4.4039148967192166e+17,
+  "trial_name": null,
+  "trial_params": null
+}
